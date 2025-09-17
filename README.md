@@ -1,11 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Kishor Koshti</h1>
-<h3 align="center">🚀 Data Scientist | Software Engineer | AI Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | Software Engineer | QualityOps Enthusiast</h3>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Machine+Learning+Developer;Go+%26+Python+Backend+Engineer;TypeScript+Full+Stack+Developer;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Machine+Learning+Developer;Go+%26+Python+Backend+Engineer;Playwright+Test+Automation+Specialist;Always+Learning+New+Things">
   </a>
 </p>
 
@@ -23,20 +23,35 @@
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+### 🧪 Testing & QualityOps
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions%20%7C%20CircleCI%20%7C%20TeamCity-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
 ---
 
 ## 📌 About Me
-💡 I specialize in **machine learning**, **backend development**, and **full-stack engineering**, with a passion for solving complex problems and building scalable systems.  
-⚡ I believe in combining AI + backend technologies to deliver **real business impact**.  
-📈 Always curious, always learning, always coding.
+💡 I specialize in **machine learning**, **backend development**, and **full-stack engineering**, with a growing focus on **test automation & QualityOps**.  
+🧪 Passionate about **Playwright UI automation, CI/CD pipelines, and AI-powered bug triage**.  
+📈 I believe in combining **AI + Quality Engineering** to deliver scalable, reliable, and impactful systems.  
+⚡ Always curious, always learning, always coding.  
 
 ---
 
 ## 📂 Featured Projects
-- 📊 **Stock Market Prediction Models** – Forecasting BSE Sensex 30 using ML & Deep Learning  
-- 🛒 **Order Management System** – Go + Redis + Postgres + GCP Deployment  
-- 🗣 **Speech-to-Text AI Assistant** – Python, Gorilla LLM, GCP TTS/STT  
-- 🌐 **Full-Stack Web Apps** – React, TypeScript, Go APIs  
+
+### 🔧 Quality Engineering Projects
+- ✅ **E-commerce Store Test Automation** – Playwright tests for cart, checkout, and payment workflows with GitHub Actions CI integration.  
+- 🔄 **Cross-Browser UI Testing** – Automated regression suite for React apps across Chrome, Firefox, and WebKit.  
+- 📊 **Quality Metrics Dashboard** – Integrated test coverage, flakiness tracking, and bug triage reports using GitHub Actions + Python scripts.  
+- 🤖 **AI-Powered Bug Triage** – ML-based classification of GitHub issues to speed up bug prioritization.  
+
+### 📊 Data & Backend Projects
+- 📈 **Stock Market Prediction Models** – Forecasting BSE Sensex 30 using ML & Deep Learning.  
+- 🛒 **Order Management System** – Go + Redis + Postgres + GCP Deployment.  
+- 🗣 **Speech-to-Text AI Assistant** – Python, Gorilla LLM, GCP TTS/STT.  
+- 🌐 **Full-Stack Web Apps** – React, TypeScript, Go APIs.  
 
 ---
 
@@ -60,4 +75,4 @@
 
 ---
 
-⭐️ _"Code. Learn. Build. Repeat."_  
+⭐️ _"Code. Test. Learn. Build. Repeat."_  
