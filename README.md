@@ -55,11 +55,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
----
-
 ## 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/kishorkoshti/" target="_blank">
