@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Machine+Learning+Developer;Go+%26+Python+Backend+Engineer;Playwright+Test+Automation+Specialist;Always+Learning+New+Things">
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&lines=Python+Backend+Engineer;Playwright+Test;Machine+Learning+Developer;+Automation+Specialist;Always+Learning+New+Things">
   </a>
 </p>
 
